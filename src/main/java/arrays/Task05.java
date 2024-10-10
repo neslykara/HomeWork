@@ -23,7 +23,7 @@ public class Task05
             sum=sum+w;
         }
         ort=ort+sum/ nums.length;
-        System.out.println(ort);
+        System.out.println("ortalama: "+ort);
         for (int w : nums){
             if (w>ort){
                 System.out.print(w+" ");

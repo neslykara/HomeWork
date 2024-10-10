@@ -22,6 +22,7 @@ public class Task03
             yeni[idx]=w;
             idx++;
         }
+        System.out.println(Arrays.toString(nums));
         System.out.println(Arrays.toString(yeni));
 
     }

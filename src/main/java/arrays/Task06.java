@@ -14,7 +14,7 @@ int[] arr = { 100, 10001, -90, 845, 8787, 898, 0, 1, -90 };
 */
 
     public static void main(String[] args) {
-        int[] arr = { 1,10,10,10,10,10,10 };
+        int[] arr =  { 100, 10001, -90, 845, 8787, 898, 0, 1, -90 };;
      //  Arrays.sort(arr);
      //  System.out.println("min="+ arr[0] + " ve " + "max="+ arr[arr.length-1]);
 
